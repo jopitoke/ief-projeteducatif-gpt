@@ -401,7 +401,11 @@ Vous trouverez un exemple ci-dessous, où les activités du matin sont toujours 
 
 ![](/home/melanie/Documents/IEF/Administatif/Projet dossier IA/finalisé/edt.png)
 
+Source pour le guide : 
 
+- https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000043964862
+- Felicia : https://espace-prive.federation-felicia.org/wp-content/uploads/2022/05/Kit-Info-Projet-Educatif-V2.pdf
+- Collectif de defence de l'ief de la region Centre Val de Loire . guide non diffusable 
 
 
 
